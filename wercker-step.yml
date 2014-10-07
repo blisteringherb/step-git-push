@@ -1,0 +1,9 @@
+name: git-push
+version: 0.0.1
+description: Deploy to a git branch in a given Repo
+keywords:
+  - deploy
+  - git
+  - push
+  - tags
+  - pantheon
